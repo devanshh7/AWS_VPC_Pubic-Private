@@ -82,7 +82,7 @@ This project demonstrates how to securely set up an AWS Virtual Private Cloud(VP
 
 ---
 ## 🧰 Architecture
-![AWS Architecture Diagram](C:/Users/DEVANSH/Downloads/public-private_arch.JPG)
+![AWS Architecture Diagram](C:\Users\DEVANSH\Downloads\public-private_arch.JPG)
 
 ## ✅ Validation Steps
 
