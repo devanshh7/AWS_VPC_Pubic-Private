@@ -97,8 +97,8 @@ This project demonstrates how to securely set up an AWS Virtual Private Cloud(VP
 
 **Devansh Sharma**  
 B.Tech CSE Student | Cloud & DevOps Enthusiast  
-GitHub: [@yourgithub](https://github.com/devanshh7/)  
-LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/devansh-sharma7)
+GitHub: [@ThisISmygithub](https://github.com/devanshh7/)  
+LinkedIn: [MY LinkedIn](https://www.linkedin.com/in/devansh-sharma7)
 
 
 
