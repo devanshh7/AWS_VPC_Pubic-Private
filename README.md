@@ -81,17 +81,30 @@ This project demonstrates how to securely set up an AWS Virtual Private Cloud(VP
 - Key Pair: Use the same `.pem` file
 
 ---
+
 ## 🧰 Architecture
 ![AWS Architecture Diagram]
 ![image](https://github.com/user-attachments/assets/f9fef582-cae5-461e-b23b-8f5865a6e6d7)
 
+## 📎 Notes
 
-## ✅ Validation Steps
+- Make sure you allow only your IP in the Bastion security group.
+- Use the same `.pem` key for both EC2 instances.
+- Validate all routes and subnet associations correctly.
+- Terminate all unused resources to avoid extra billing.
 
-### 1. Validate Bastion Access
-From your **local machine**:
-```bash
-ssh -i my-key.pem ec2-user@<bastion-public-ip>
+## 👤 Author
+
+**Devansh Sharma**  
+B.Tech CSE Student | Cloud & DevOps Enthusiast  
+GitHub: [@yourgithub](https://github.com/devanshh7/)  
+LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/devansh-sharma7)
+
+
+
+
+
+
 
 
 
