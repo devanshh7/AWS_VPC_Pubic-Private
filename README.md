@@ -81,6 +81,8 @@ This project demonstrates how to securely set up an AWS Virtual Private Cloud(VP
 - Key Pair: Use the same `.pem` file
 
 ---
+## 🧰 Architecture
+![AWS Architecture Diagram](C:/Users/DEVANSH/Downloads/public-private_arch.JPG)
 
 ## ✅ Validation Steps
 
@@ -89,8 +91,5 @@ From your **local machine**:
 ```bash
 ssh -i my-key.pem ec2-user@<bastion-public-ip>
 
-## 🧰 Architecture
-
-![AWS Architecture Diagram](path/to/your/image.png)
 
 
