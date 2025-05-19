@@ -89,3 +89,8 @@ From your **local machine**:
 ```bash
 ssh -i my-key.pem ec2-user@<bastion-public-ip>
 
+## 🧰 Architecture
+
+![AWS Architecture Diagram](path/to/your/image.png)
+
+
